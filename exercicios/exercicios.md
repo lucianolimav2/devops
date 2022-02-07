@@ -218,6 +218,7 @@ $ sudo apt-get install -y kubectl
 ```
 
 Com o kubectl instalado, pegar as credenciais de acesso no Rancher e configurar o kubectl.
+Entrar no cluster, copiar o kubeconfig file e colar no arquivo config.
 
 ```sh
 $ vi ~/.kube/config
